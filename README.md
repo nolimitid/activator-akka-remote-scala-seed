@@ -1,4 +1,5 @@
-activator-akka-scala-seed
+activator-akka-remote-scala-seed
 =========================
 
-A minimal seed template for an Akka with Scala build 
+A minimal seed template for an Akka Remote with Scala build 
+by NoLimit Indonesia
